@@ -3,7 +3,7 @@
 
 ### Integrantes:
 - Samuel David Bermudez Chaparro - 1013101679
-- Juan Sebastian Florez - [número por completar]
+- Juan Sebastian Florez Payares - [1014656445]
 
 ---
 
@@ -12,6 +12,9 @@
 Este es nuestro proyecto final de Electronica Digital 1. Durante todo el semestre estuvimos trabajando en el diseño e implementación de una calculadora digital usando Verilog y avanzando en el diseño e implementación de lo aprendido en un proyecto usando pantalla LED y FPGA.
 
 Lo que se hizo fue crear todos los módulos usando como referencia los modulos hechos por el profesor Carlos Camargo: multiplicación, división, raíz cuadrada y los conversores entre binario y BCD. Cada uno lo fuimos desarrollando por separado y después los integramos.
+
+Además, incluimos el diagrama de flujo que planteamos para nuestro proyecto final, que consiste en hacer un espectrograma de sonido usando un micrófono y mostrándolo usando nuestra matriz de 64x64.
+
 
 ## Qué contiene este repositorio
 
